@@ -1,4 +1,4 @@
-# terraform-portfolio-project
+# Web_Application_Backend_Infra
 Project portfolio for website deployment
 
 This project demonstrates how to deploy a Next.js application using AWS services such as S3, CloudFront, DynamoDB, and bucket policies. The infrastructure is managed using Terraform.
