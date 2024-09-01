@@ -73,5 +73,3 @@ Ensure you have the following installed:
     ```bash
     terraform apply
     ```
-
-    Confirm the apply with `yes`.
